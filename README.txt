@@ -1,5 +1,5 @@
-Name: Behrooz Jamdar
-Neptun Code: OGQEAS
+Name: Axis Coords
+Neptun Code: ######
 Date: 5/11/2025
 
 ---INSTRUCTIONS---
